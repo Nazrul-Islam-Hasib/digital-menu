@@ -1,0 +1,202 @@
+[
+    {
+        "_id": "1e4b6eaa-8642-4193-8a1e-73040f776f36",
+        "name": "Catfish - Fillets",
+        "price": 64,
+        "category": "Dessert",
+        "available_time": "dinner",
+        "waiting_time": 38,
+        "available": true,
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique."
+    },
+    {
+        "_id": "40134185-4fb0-4849-801b-ee60db8d246d",
+        "name": "Gooseberry",
+        "price": 27,
+        "category": "Starter",
+        "available_time": "breakfast",
+        "waiting_time": 42,
+        "available": true,
+        "description": "Integer a nibh."
+    },
+    {
+        "_id": "9ea11f48-fd6f-4d08-8df7-ac0ae2a32dfe",
+        "name": "Savory",
+        "price": 21,
+        "category": "Beverage",
+        "available_time": "breakfast",
+        "waiting_time": 54,
+        "available": false,
+        "description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl."
+    },
+    {
+        "_id": "a0c939b6-1e5f-45df-bfd6-ba742cf8cc2f",
+        "name": "Longos - Burritos",
+        "price": 15,
+        "category": "Beverage",
+        "available_time": "lunch",
+        "waiting_time": 51,
+        "available": false,
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+    },
+    {
+        "_id": "1668e74c-b2a3-428d-b338-416a66012401",
+        "name": "Mushroom - White Button",
+        "price": 66,
+        "category": "Main course",
+        "available_time": "breakfast",
+        "waiting_time": 53,
+        "available": true,
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique."
+    },
+    {
+        "_id": "8f44437e-afd3-4b88-a790-edfb02b78a5d",
+        "name": "Fennel - Seeds",
+        "price": 44,
+        "category": "Main course",
+        "available_time": "dinner",
+        "waiting_time": 34,
+        "available": true,
+        "description": "Donec vitae nisi."
+    },
+    {
+        "_id": "2104cddc-1512-4804-b67d-8e7a3fb5821b",
+        "name": "Mousse - Passion Fruit",
+        "price": 82,
+        "category": "Dessert",
+        "available_time": "weekends",
+        "waiting_time": 30,
+        "available": true,
+        "description": "Nulla suscipit ligula in lacus."
+    },
+    {
+        "_id": "5ba223d6-ec03-4566-b62a-56d53d12a376",
+        "name": "Chicken - Whole",
+        "price": 76,
+        "category": "Main course",
+        "available_time": "weekends",
+        "waiting_time": 33,
+        "available": false,
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+    },
+    {
+        "_id": "3054ac12-15ac-405c-a2d7-85f93d62d3e2",
+        "name": "Nut - Pumpkin Seeds",
+        "price": 10,
+        "category": "Dessert",
+        "available_time": "weekends",
+        "waiting_time": 48,
+        "available": true,
+        "description": "Nam tristique tortor eu pede."
+    },
+    {
+        "_id": "77b43ea1-966e-47d6-b289-8cd584a6f654",
+        "name": "Potatoes - Mini Red",
+        "price": 58,
+        "category": "Dessert",
+        "available_time": "weekends",
+        "waiting_time": 33,
+        "available": false,
+        "description": "Morbi non quam nec dui luctus rutrum."
+    },
+    {
+        "_id": "623620e3-dae2-45ba-9905-681afb2dd9d6",
+        "name": "Cheese - Goat With Herbs",
+        "price": 72,
+        "category": "Dessert",
+        "available_time": "lunch",
+        "waiting_time": 60,
+        "available": false,
+        "description": "Nulla ut erat _id mauris vulputate elementum."
+    },
+    {
+        "_id": "5afa2dc2-37a8-484c-b8b0-9013b94962bb",
+        "name": "Beef - Kindney, Whole",
+        "price": 89,
+        "category": "Beverage",
+        "available_time": "weekends",
+        "waiting_time": 41,
+        "available": true,
+        "description": "Duis ac nibh."
+    },
+    {
+        "_id": "0146156d-857f-453a-a943-c85c3c5a964b",
+        "name": "Marjoram - Dried, Rubbed",
+        "price": 96,
+        "category": "Beverage",
+        "available_time": "weekends",
+        "waiting_time": 52,
+        "available": true,
+        "description": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+    },
+    {
+        "_id": "785dd3ca-d72a-4c40-a651-a58cf7bec0d9",
+        "name": "Lumpfish Black",
+        "price": 47,
+        "category": "Beverage",
+        "available_time": "weekends",
+        "waiting_time": 50,
+        "available": true,
+        "description": "Nulla mollis molestie lorem."
+    },
+    {
+        "_id": "930e2ea8-485b-479b-a4ec-a8122c93d84a",
+        "name": "Soup - Campbells Chili",
+        "price": 69,
+        "category": "Beverage",
+        "available_time": "lunch",
+        "waiting_time": 44,
+        "available": true,
+        "description": "Praesent lectus."
+    },
+    {
+        "_id": "a44a135d-f648-4cba-af93-0afe6ddcb73c",
+        "name": "Pepsi - Diet, 355 Ml",
+        "price": 13,
+        "category": "Main course",
+        "available_time": "breakfast",
+        "waiting_time": 35,
+        "available": true,
+        "description": "Sed ante."
+    },
+    {
+        "_id": "24716512-1029-4ccd-852f-a061dca3f179",
+        "name": "Cake - Lemon Chiffon",
+        "price": 66,
+        "category": "Dessert",
+        "available_time": "lunch",
+        "waiting_time": 53,
+        "available": false,
+        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur r_idiculus mus."
+    },
+    {
+        "_id": "8863c22f-2dda-4028-90c0-47b6537fddde",
+        "name": "Cheese - Comte",
+        "price": 99,
+        "category": "Main course",
+        "available_time": "weekends",
+        "waiting_time": 21,
+        "available": true,
+        "description": "Phasellus in felis."
+    },
+    {
+        "_id": "516c321f-9669-4058-bebc-ea76243b49c0",
+        "name": "Cheese - Mix",
+        "price": 25,
+        "category": "Starter",
+        "available_time": "lunch",
+        "waiting_time": 54,
+        "available": false,
+        "description": "Nulla ac enim."
+    },
+    {
+        "_id": "ae62e981-1161-49dc-89a4-d83706202be9",
+        "name": "Banana - Leaves",
+        "price": 58,
+        "category": "Starter",
+        "available_time": "dinner",
+        "waiting_time": 56,
+        "available": false,
+        "description": "Integer aliquet, massa _id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci."
+    }
+]
